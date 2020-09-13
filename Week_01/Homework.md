@@ -2,7 +2,7 @@
 
 ## 数据结构与算法脑图
 
-日后会不断更新完善数据结构与算法的知识点。<https://mubu.com/doc/3MewKNWN19d#m>
+日后会不断更新完善数据结构与算法的知识点。点击查看 -> [点击](https://mubu.com/doc/3MewKNWN19d#m)
 
 ## 简单
 

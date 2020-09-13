@@ -19,4 +19,8 @@
 
 题目包括视频中的实战题、课后作业、自己找的题目，后期会不断更新。
 
-<https://shimo.im/sheets/GXJpwr6y3X6JKC8H/MODOC/>
+点击查看 -> [点击](https://shimo.im/sheets/GXJpwr6y3X6JKC8H/MODOC/)
+
+## 本周作业
+
+请点击直接查看 -> [点击](./Homework.md)
