@@ -50,7 +50,11 @@ class Solution {
             // 保存下 currentWord 的索引 i 的字母，因为 a - z 循环查找结束需要还原回去，对 i + 1 的字母做处理
             char originLetter = charArray[i];
 
+<<<<<<< HEAD
             for (k = 'a'; k <= 'z'; k++) {
+=======
+            for (char k = 'a'; k <= 'z'; k++) {
+>>>>>>> c677d3ab9e8c9ff9337726848430254619a879f9
                 if (k == originLetter) {
                     continue;
                 }
